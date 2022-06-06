@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = "The Hitchhiker's Guide to Frequent Problems"
+project = "Sample Documentation"
 copyright = "MIT"
 author = "JMC"
 
