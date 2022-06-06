@@ -1,9 +1,15 @@
-Template for the Read the Docs tutorial
+The Hitchhiker's Guide to Frequent Problems 
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+“Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space.”
+― Douglas Adams, The Hitchhiker's Guide to the Galaxy
 
-Read the tutorial here:
+Now swap "space" for "the internet". 
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Hi! Glad you made it here. This is my personal website where I document a lot of the stuff I do and find useful. Feel free to look around :)
+
+
+
+
+
+
